@@ -41,6 +41,12 @@ As a user of the Site, you agree not to:
 * Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
 * Use a buying agent or purchasing agent to make purchases on the Site. Make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
 * Use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
+* Engage or perpetuate any discriminative behaviour of any kind
+* Sell, produce, or promote pornographic material
+* Engage in any fraudulent behaviour
+* Create, support, or promote any scams
+* Download or share any information without express permission from the owner
+* Engage in any behaviour that is illegal in your location
 
 ## 5. USER GENERATED CONTRIBUTIONS
 The Site does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated in accordance with the Site Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:
