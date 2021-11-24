@@ -1,5 +1,5 @@
 {
-  "date": "2021-11-20T14:32:36.139Z",
+  "date": "2021-11-24T14:32:36.139Z",
   "title": "Terms of Service",
   "description": "Beyond's Terms of Service"
 }
@@ -84,7 +84,7 @@ We cannot guarantee the Site will be available at all times. We may experience h
 These Terms shall be governed by and defined following the laws of England and Wales. Beyond So Ltd. and yourself irrevocably consent that the courts of England and Wales shall have exclusive jurisdiction to resolve any dispute which may arise in connection with these terms.
 
 
-## 2. DISPUTE RESOLUTION
+## 12. DISPUTE RESOLUTION
 Binding Arbitration
 Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by the International Commercial Arbitration Court under the European Arbitration Chamber (Belgium, Brussels, Avenue Louise, 146) according to the Rules of this ICAC, which, as a result of referring to it, is considered as the part of this clause. The number of arbitrators shall be three. The seat, or legal place, of arbitration shall be London. The language of the proceedings shall be English. The governing law of the contract shall be the substantive law of England and Wales.
 **Restrictions**
