@@ -206,7 +206,7 @@ Beyond So Ltd\
 Alexander Hipp\
 71-75 Shelton St, London WC2H 9JQ, UK\
 London, England WC2H 9JQ\
-United Kingdom\
+United Kingdom
 
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
