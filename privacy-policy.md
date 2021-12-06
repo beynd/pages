@@ -132,8 +132,18 @@ personal information. You may review, change, or terminate your account at any t
   2. every individual who is domiciled in the State of California who is outside the State of California for a temporary or transitory purpose
 * All other individuals are defined as "non-residents." If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information. What categories of personal information do we collect?
 * We have collected the following categories of personal information in the past twelve (12) months:
+  1. Identifiers: Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address and account name: Collected = NO
+  2. Personal information categories listed in the California Customer Records statute: Name, contact information, education, employment, employment history and financial information: Collected = YES
+  3. Protected classification characteristics under California or federal law: Gender and date of birth: Collected = NO
+  4. Commercial information: Transaction information, purchase history, financial details and payment information: Collected = NO
+  5. Biometric information: Fingerprints and voiceprints: Collected = NO
+  6. Internet or other similar network activity: Browsing history, search history online behavior, interest data, and interactions with our and other websites applications, systems and advertisements: Collected = NO
+  7. Geolocation data: Device location: Collected = NO
+  8. Audio, electronic, visual, thermal, olfactory, or similar information: Images and audio, video or call recordings created in connection with our business activities: Collected = NO
+  9. Professional or employment-related information: Business contact details in order to provide you our services at a business level, job title as well as work history and professional qualifications if you apply for a job with us: Collected = NO
+  10. Education Information: Student records and directory information: Collected = NO
+  11. Inferences drawn from other personal information: Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics: Collected = NO
 
-TABLE
 
 * We may also collect other personal information outside of these categories instances where you interact with us in-person, online, or by phone or mail in the context of:
   * Receiving help through our customer support channels;
