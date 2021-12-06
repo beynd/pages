@@ -22,9 +22,9 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 
 **Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.**
 
-1. WHAT INFORMATION DO WE COLLECT?
-Personal information you disclose to us
-In Short:  We collect personal information that you provide to us.
+## 1. WHAT INFORMATION DO WE COLLECT?
+**Personal information you disclose to us**
+*In Short:  We collect personal information that you provide to us.*
 We collect personal information that you voluntarily provide to us when you register
 on the Website, express an interest in obtaining information about us or our products
 and Services, when you participate in activities on the Website or otherwise when
