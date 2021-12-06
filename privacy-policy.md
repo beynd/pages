@@ -26,20 +26,25 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 **Personal information you disclose to us**
 
 *In Short:  We collect personal information that you provide to us.*
+
 We collect personal information that you voluntarily provide to us when you register
 on the Website, express an interest in obtaining information about us or our products
 and Services, when you participate in activities on the Website or otherwise when
 you contact us.
 The personal information that we collect depends on the context of your interactions
 
-Personal Information Provided by You. We collect names; email
+**Personal Information Provided by You. We collect names; email**
+
 addresses; ethereum wallet address; user description; profile image; and other
 similar information.
 All personal information that you provide to us must be true, complete and accurate,
 and you must notify us of any changes to such personal information.
-Information collected from other sources
-In Short:  We may collect limited data from public databases, marketing partners,
-and other outside sources.
+
+**Information collected from other sources**
+
+*In Short:  We may collect limited data from public databases, marketing partners,
+and other outside sources.*
+
 In order to enhance our ability to provide relevant marketing, offers and services to
 you and update our records, we may obtain information about you from other
 sources, such as public databases, joint marketing partners, affiliate programs, data
@@ -48,23 +53,25 @@ addresses, job titles, email addresses, phone numbers, intent data (or user beha
 data), Internet Protocol (IP) addresses, social media profiles, social media URLs and
 custom profiles, for purposes of targeted advertising and event promotion.
 
-2. HOW DO WE USE YOUR INFORMATION?
-In Short:  We process your information for purposes based on legitimate business
+## 2. HOW DO WE USE YOUR INFORMATION?
+
+*In Short:  We process your information for purposes based on legitimate business
 interests, the fulfillment of our contract with you, compliance with our legal
-obligations, and/or your consent.
-We use personal information collected via our Website for a variety of business
+obligations, and/or your consent.*
+
+* We use personal information collected via our Website for a variety of business
 purposes described below. We process your personal information for these purposes
 in reliance on our legitimate business interests, in order to enter into or perform a
 contract with you, with your consent, and/or for compliance with our legal obligations.
-We indicate the specific processing grounds we rely on next to each purpose listed
+* We indicate the specific processing grounds we rely on next to each purpose listed
 below.
-We use the information we collect or receive:
-To facilitate account creation and logon process. If you choose to link your
+* We use the information we collect or receive:
+  * To facilitate account creation and logon process. If you choose to link your
 account with us to a third-party account (such as your Google or Facebook
 account), we use the information you allowed us to collect from those third
 parties to facilitate account creation and logon process for the performance of
 the contract.
-To post testimonials. We post testimonials on our Website that may contain
+  * To post testimonials. We post testimonials on our Website that may contain
 personal information. Prior to posting a testimonial, we will obtain your consent
 to use your name and the content of the testimonial. If you wish to update, or
 delete your testimonial, please contact us at alex@beyond.so and be sure to
@@ -83,7 +90,7 @@ use and store this information in aggregated and anonymized form so that it is
 not associated with individual end users and does not include personal
 information.
 
-3. WILL YOUR INFORMATION BE SHARED WITH
+## 3. WILL YOUR INFORMATION BE SHARED WITH
 ANYONE?
 In Short:  We only share information with your consent, to comply with laws, to
 provide you with services, to protect your rights, or to fulfill business obligations.
@@ -109,14 +116,16 @@ information in the following situations:
 Business Transfers. We may share or transfer your information in connection
 with, or during negotiations of, any merger, sale of company assets, financing,
 or acquisition of all or a portion of our business to another company.
-4. DO WE USE COOKIES AND OTHER TRACKING
+
+## 4. DO WE USE COOKIES AND OTHER TRACKING
 TECHNOLOGIES?
 In Short:  We may use cookies and other tracking technologies to collect and store
 your information.
 We may use cookies and similar tracking technologies (like web beacons and pixels)
 to access or store information. Specific information about how we use such
 technologies and how you can refuse certain cookies is set out in our Cookie Notice.
-5. HOW LONG DO WE KEEP YOUR INFORMATION?
+
+## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 In Short:  We keep your information for as long as necessary to fulfill the purposes
 outlined in this privacy notice unless otherwise required by law.
 We will only keep your personal information for as long as it is necessary for the
@@ -129,7 +138,8 @@ information, we will either delete or anonymize such information, or, if this is
 possible (for example, because your personal information has been stored in backup
 archives), then we will securely store your personal information and isolate it from
 any further processing until deletion is possible.
-6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+## 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 In Short:  We aim to protect your personal information through a system of
 organizational and technical security measures.
 We have implemented appropriate technical and organizational security measures
@@ -142,7 +152,8 @@ improperly collect, access, steal, or modify your information. Although we will 
 best to protect your personal information, transmission of personal information to and
 from our Website is at your own risk. You should only access the Website within a
 secure environment.
-7. DO WE COLLECT INFORMATION FROM MINORS?
+
+## 7. DO WE COLLECT INFORMATION FROM MINORS?
 In Short:  We do not knowingly collect data from or market to children under 18
 years of age.
 We do not knowingly solicit data from or market to children under 18 years of age. By
@@ -152,7 +163,8 @@ If we learn that personal information from users less than 18 years of age has b
 collected, we will deactivate the account and take reasonable measures to promptly
 delete such data from our records. If you become aware of any data we may have
 collected from children under age 18, please contact us at alex@beyond.so.
-8. WHAT ARE YOUR PRIVACY RIGHTS?
+
+## 8. WHAT ARE YOUR PRIVACY RIGHTS?
 In Short:  In some regions, such as the European Economic Area (EEA) and United
 Kingdom (UK), you have rights that allow you greater access to and control over your
 personal information. You may review, change, or terminate your account at any
@@ -202,7 +214,8 @@ send you service-related emails that are necessary for the administration and us
 your account, to respond to service requests, or for other non-marketing purposes.
 To otherwise opt-out, you may:
 Access your account settings and update your preferences.
-9. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 Most web browsers and some mobile operating systems and mobile applications
 include a Do-Not-Track ("DNT") feature or setting you can activate to signal your
 privacy preference not to have data about your online browsing activities monitored
@@ -212,7 +225,8 @@ to DNT browser signals or any other mechanism that automatically communicates
 your choice not to be tracked online. If a standard for online tracking is adopted that
 we must follow in the future, we will inform you about that practice in a revised
 version of this privacy notice.
-10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC
+
+## 10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC
 PRIVACY RIGHTS?
 In Short:  Yes, if you are a resident of California, you are granted specific rights
 regarding access to your personal information.
@@ -330,7 +344,8 @@ request submission.
 To exercise these rights, you can contact us by email at hello@beyond.so, or by
 referring to the contact details at the bottom of this document. If you have a complaint
 about how we handle your data, we would like to hear from you.
-11. DO WE MAKE UPDATES TO THIS NOTICE?
+
+## 11. DO WE MAKE UPDATES TO THIS NOTICE?
 In Short:  Yes, we will update this notice as necessary to stay compliant with
 relevant laws.
 We may update this privacy notice from time to time. The updated version will be
@@ -339,7 +354,8 @@ soon as it is accessible. If we make material changes to this privacy notice, we
 notify you either by prominently posting a notice of such changes or by directly
 sending you a notification. We encourage you to review this privacy notice frequently
 to be informed of how we are protecting your information.
-12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+## 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 If you have questions or comments about this notice, you may contact our Data
 Protection Officer (DPO), Alexander Hipp, by email at alex@beyond.so, or by post to:
 Beyond So Ltd
@@ -347,7 +363,8 @@ Alexander Hipp
 71-75 Shelton St, London WC2H 9JQ, UK
 London, England WC2H 9JQ
 United Kingdom
-13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE
+
+## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE
 DATA WE COLLECT FROM YOU?
 Based on the applicable laws of your country, you may have the right to request
 access to the personal information we collect from you, change that information, or
