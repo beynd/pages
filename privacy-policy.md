@@ -24,6 +24,7 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 
 ## 1. WHAT INFORMATION DO WE COLLECT?
 **Personal information you disclose to us**
+
 *In Short:  We collect personal information that you provide to us.*
 We collect personal information that you voluntarily provide to us when you register
 on the Website, express an interest in obtaining information about us or our products
