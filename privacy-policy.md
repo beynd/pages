@@ -202,11 +202,11 @@ Beyond So Ltd has not disclosed or sold any personal information to third partie
 
 If you have questions or comments about this notice, you may contact our Data Protection Officer (DPO), Alexander Hipp, by email at alex@beyond.so, or by post to:
 
-Beyond So Ltd<br/>
-Alexander Hipp<br/>
-71-75 Shelton St, London WC2H 9JQ, UK<br/>
-London, England WC2H 9JQ<br/>
-United Kingdom<br/>
+Beyond So Ltd\
+Alexander Hipp\
+71-75 Shelton St, London WC2H 9JQ, UK\
+London, England WC2H 9JQ\
+United Kingdom\
 
 
 ## 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
